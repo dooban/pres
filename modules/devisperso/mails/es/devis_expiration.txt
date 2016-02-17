@@ -1,0 +1,8 @@
+Buenos d&iacute;as,
+
+Acaba de caducar una nueva solicitud de presupuesto personalizado
+
+&iexcl;La solicitud de presupuesto personalizado n&deg;{id_devis} ha llegado a su caducidad!
+
+
+{shop_name} realizado por PrestaShop™

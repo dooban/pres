@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_96e9f766df00ffcbd7c4600d16f90df3'] = 'Formulaire de commande rapide';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_37f40ca0969b0b1cd44758a5db34e05b'] = 'Ajouter un formulaire de commande rapide';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_828aa8e02beb6a1e6ad5ec383e199f59'] = 'Formulaire de commande rapide';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_226ed577d0eff50725be6447bcd5a2f0'] = 'Erreur de deplacement du fichier uploadé';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_8083888d8cccfa873795516c4302db45'] = 'Configuration du bloc de colonne';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_9f9079ead80e7a71b4c0c79a0756753e'] = 'Vous ne pouvez pas supprimer l\'image par défaut mais vous pouvez la changer ci-contre';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_83b5a65e518c21ed0a5f2b383dd9b617'] = 'supprimer l\'image';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_706bebc78ad992a07e4c1ce0f39def81'] = 'Pas d\'image';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_8c38cf08a0d0a01bd44c682479432350'] = 'Changer l\'image';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_936823d20c5582b055bccdc6fd03b9d1'] = 'L\'image sera affichée en 155x163 pixels.';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_b78a3223503896721cca1303f776159b'] = 'Titre';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_ad3d06d03d94223fa652babc913de686'] = 'Valider';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_5b6cf869265c13af8566f192b4ab3d2a'] = 'Documentation';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_c9a643a73954c022c6d9b9753fc06093'] = 'Documentation fr';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_8fa1e7d213f310ae24c7b99e51fe38fe'] = 'Documentation en';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_be6c45f8823a5181c2e02355c0b9a700'] = 'Documentation es';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_b31cf4e8452cb906ef1ef5769484b1d1'] = 'Entrez ici la référence ou le nom du produit';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_ec211f7c20af43e742bf2570c3cb84f9'] = 'Ajouter';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_1d9baf077ee87921f57a8fe42d510b65'] = 'Retirer';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_7d9b384a7df4a5f2e720b8f1b81ea353'] = 'Retirer ce produit';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_1063e38cb53d94d386f21227fcd84717'] = 'Supprimer';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_12d3c7a4296542c62474856ec452c045'] = 'Référence';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_49ee3087348e8d44e1feda1917443987'] = 'Nom';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_68a6edd654bf46bdca814b63c7bd35d1'] = 'Déclinaison';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_694e8d1f2ee056f98ee488bdc4982d73'] = 'Quantité';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_3837cb7cbf8a4ee6231126ba1eb663da'] = 'Ajouter 5 nouvelles lignes';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';
+$_MODULE['<{quickorderform15}prestashop>left-column_9b14229fd538c73ed714ec4a9aa66996'] = 'Commander plus vite !';
+$_MODULE['<{quickorderform15}prestashop>left-column_08ce78d09a131e90159b67381a7ebcee'] = 'Aller au formulaire de commande rapide';
+$_MODULE['<{quickorderform15}prestashop>left-column_ef0c6dc825df5280fe98c1bb42c310c7'] = 'Commande rapide';

@@ -1,0 +1,14 @@
+Buenos días {firstname} {lastname},
+
+Solicitud de presupuesto personalizado n°{id_devis}
+
+¡Acaba de recibir una respuesta a su solicitud de presupuesto personalizado!
+
+Su solicitud : {demande}
+
+Nuestra respuesta : {reponse}
+
+Total : {total_devis} {currency}
+
+
+{shop_name} realizado por PrestaShop™

@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_96e9f766df00ffcbd7c4600d16f90df3'] = 'Quick Order Form';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_37f40ca0969b0b1cd44758a5db34e05b'] = 'Adds a form to order quicker.';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_828aa8e02beb6a1e6ad5ec383e199f59'] = 'Quick order form';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_226ed577d0eff50725be6447bcd5a2f0'] = 'Error move uploaded file';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_8083888d8cccfa873795516c4302db45'] = 'Quick Order Form column block configuration';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_9f9079ead80e7a71b4c0c79a0756753e'] = 'You cannot delete the default image (but you can change it beside).';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_83b5a65e518c21ed0a5f2b383dd9b617'] = 'Delete image';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_706bebc78ad992a07e4c1ce0f39def81'] = 'no image';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_8c38cf08a0d0a01bd44c682479432350'] = 'Change image';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_936823d20c5582b055bccdc6fd03b9d1'] = 'Image will be displayed as 155x163.';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_b78a3223503896721cca1303f776159b'] = 'Title';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_ad3d06d03d94223fa652babc913de686'] = 'Validate';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_5b6cf869265c13af8566f192b4ab3d2a'] = 'Readme';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_c9a643a73954c022c6d9b9753fc06093'] = 'Readme fr';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_8fa1e7d213f310ae24c7b99e51fe38fe'] = 'Readme en';
+$_MODULE['<{quickorderform15}prestashop>quickorderform15_be6c45f8823a5181c2e02355c0b9a700'] = 'Readme es';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_b31cf4e8452cb906ef1ef5769484b1d1'] = 'Please enter reference or name';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_ec211f7c20af43e742bf2570c3cb84f9'] = 'Add';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_1d9baf077ee87921f57a8fe42d510b65'] = 'Subtract';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_7d9b384a7df4a5f2e720b8f1b81ea353'] = 'Remove this product';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_1063e38cb53d94d386f21227fcd84717'] = 'Remove';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_12d3c7a4296542c62474856ec452c045'] = 'Ref.';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_49ee3087348e8d44e1feda1917443987'] = 'Name';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_68a6edd654bf46bdca814b63c7bd35d1'] = 'Combinaison';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_694e8d1f2ee056f98ee488bdc4982d73'] = 'Quantity';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_3837cb7cbf8a4ee6231126ba1eb663da'] = 'Add 5 new lines';
+$_MODULE['<{quickorderform15}prestashop>quickorderform-form_2d0f6b8300be19cf35e89e66f0677f95'] = 'Add to cart';
+$_MODULE['<{quickorderform15}prestashop>left-column_9b14229fd538c73ed714ec4a9aa66996'] = 'Order quicker !';
+$_MODULE['<{quickorderform15}prestashop>left-column_08ce78d09a131e90159b67381a7ebcee'] = 'Go to Quick Order Form';
+$_MODULE['<{quickorderform15}prestashop>left-column_ef0c6dc825df5280fe98c1bb42c310c7'] = 'Quick Order';

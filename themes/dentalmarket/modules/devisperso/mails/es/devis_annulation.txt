@@ -1,0 +1,8 @@
+Buenos días,
+
+Acaba de ser cancelada una solicitud de presupesto personalizado
+
+¡Acaba de ser cancelada la  solicitud de presupuesto personalizado n°{id_devis}!
+
+
+{shop_name} realizado por PrestaShop™

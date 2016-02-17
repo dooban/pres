@@ -1,0 +1,8 @@
+Hello,
+
+A customized quote request has just been cancelled
+
+The customized quote request #{id_devis} has been cancelled !
+
+
+{shop_name} powered by Prestashop™

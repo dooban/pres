@@ -1,0 +1,17 @@
+Hello {firstname} {lastname},
+
+Customized quote request #{id_devis}
+
+You have just get an answer for your customized quote request !
+
+Your request: {demande}
+
+Our answer:{reponse}
+
+Total: {total_devis} {currency} 
+
+Go faster on your account to finalize your order !
+'My quotes'
+
+
+{shop_url} powered by PrestaShop™ 

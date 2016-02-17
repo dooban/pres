@@ -1,0 +1,68 @@
+#devis_block_right p {
+    font-size: 13px;
+    line-height: 18px;
+    padding: 5px 5px 15px;
+}
+
+.lien_devis {
+	border:none;
+	background:transparent;
+	margin:0;
+	font-weight:bold;
+	color:#5D717E;
+	text-decoration:underline;
+	outline:none;
+	font-size:12px;
+}
+.lien_devis:hover {
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.formulaire h3 {
+    border-bottom: 1px solid #D0D1D5;
+    color: #555555;
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 0 0 0.5em;
+    padding: 0.8em;
+}
+.formulaire p.gras {
+	font-weight:bold;
+	font-size:1.1em;
+	padding-left:0.8em;	
+}
+.formulaire label {
+    float: left;
+    text-align: right;
+    width: 30%;
+}
+#center_column p.submitdevis {
+    margin-bottom: 1.5em;
+    padding-left: 45%;
+}
+#intro {
+	font-size:15px;
+	font-weight:bold;
+	padding-top:10px;
+	padding-left:15px;
+}
+#demande {
+	font-size:13px;
+	margin-left:0.8em;
+}
+#reponse {
+	font-size:13px;
+	width:95%;
+	margin-left:0.8em;
+	background-color:#fff;
+}
+	
+
+table.std tr.last_item td {
+	border-bottom:1px solid #999999;
+}
+
+table.std td {
+	border-right: medium none;
+}

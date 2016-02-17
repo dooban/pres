@@ -1,0 +1,16 @@
+Bonjour {firstname} {lastname},
+
+Demande de devis personnalisé n°{id_devis}
+
+Vous venez d'obtenir une réponse pour votre demande de devis personnalisé !
+
+Votre demande : {demande}
+
+Notre réponse :{reponse}
+
+Total : {total_devis} {currency} 
+
+Rendez-vous vite sur votre compte pour finaliser votre commande !
+"Mes devis"
+
+{shop_url} réalisé par PrestaShop™ 

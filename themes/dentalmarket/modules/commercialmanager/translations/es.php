@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_9a632df82d885327a0b68419cf2b6029'] = 'Gestor de Comerciales por Usuario';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_519548e18eb8cdbf5f3e5775f04a5cff'] = 'Permite a sus comerciales poder asignarles los clientes y hacer pedidos.';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_876f23178c29dc2552c0b48bf23cd9bd'] = '¿Estás seguro que deseas borrar el módulo, se perderán los datos de la Base de datos.?';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_5542ffc60d625ce6cf2a5e4c3605f275'] = 'Grupo de Comerciales actualizado.';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_f4f70727dc34561dfde1a3c529b6205c'] = 'Configuración';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_ebe4b49fb43d55e72317aaa37181fa84'] = 'Id del Grupo de Commerciales';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_ab875428bd540a9e77361dbd026d48b2'] = 'Marque todos los módulos que desea gesitonar.';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_d4f56ff894feb8087e70175f2b098408'] = 'Comercial asignado';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_6cb8804e14d713f2cd5f271ce2117098'] = 'Nombre del comercial';
+$_MODULE['<{commercialmanager}dentalmarket>commercialmanager_38df97829c4dde6c52999dfdb80bfccf'] = 'Guardar asociación';
+$_MODULE['<{commercialmanager}dentalmarket>default_c404676a273878de86626e3d0d73e48b'] = 'Gestión de usuarios';
+$_MODULE['<{commercialmanager}dentalmarket>default_09a413a9de81c74a86abbca89c4069ed'] = 'Ahora estás en la cuenta de ';
+$_MODULE['<{commercialmanager}dentalmarket>default_804ccd6219996d12eda865d1c0707423'] = 'Todas las tiendas';
+$_MODULE['<{commercialmanager}dentalmarket>default_402398b29c0336731b3c8b25d65d0356'] = 'Busque su cliente por nombre o email.';
+$_MODULE['<{commercialmanager}dentalmarket>default_9f82518d468b9fee614fcc92f76bb163'] = 'Tienda';
+$_MODULE['<{commercialmanager}dentalmarket>default_184f5c0e40df479848909a40f955c98c'] = 'Usuarios encontrados';
+$_MODULE['<{commercialmanager}dentalmarket>default_286a34b92d96f51289f1ff0af41fa994'] = 'Por favor empiece a escribir e iniciaremos la búsqueda.';
+$_MODULE['<{commercialmanager}dentalmarket>default_c4db1872ab154b852bd971acc2bc2baf'] = 'Conectarse como este usuario.';
+$_MODULE['<{commercialmanager}dentalmarket>default_90bd95b54ecd5c941669fc7697e120b8'] = 'Para continuar por favor, pulse aquí.';
+$_MODULE['<{commercialmanager}dentalmarket>default_6c92285fa6d3e827b198d120ea3ac674'] = 'aquí.';
+$_MODULE['<{commercialmanager}dentalmarket>default_908f8d9f34f375a55dd5b6a86489d364'] = 'Sin resultados.';
+$_MODULE['<{commercialmanager}dentalmarket>configure_c8e270cd64769f7fd2f3a48afae25a24'] = 'Gestor de Comerciales para B2B por eComm360';
+$_MODULE['<{commercialmanager}dentalmarket>configure_0821635b1d6440d55f28fc2c118d1b58'] = 'Permite a sus comerciales poder asignarles los clientes y hacer pedidos.';
+$_MODULE['<{commercialmanager}dentalmarket>configure_682b7a80b34a036efa0998890ba21d54'] = 'La relación entre usuarios y comerciales se gestiona desde la cuenta de cada usuario.';
+$_MODULE['<{commercialmanager}dentalmarket>configure_71b44bce5960b93c4187b20304d6fcd4'] = 'Configure el ID de su grupo de comerciales y guárdelo. ';
+$_MODULE['<{commercialmanager}dentalmarket>configure_5b6cf869265c13af8566f192b4ab3d2a'] = 'Documentación';
+$_MODULE['<{commercialmanager}dentalmarket>configure_4677b45522de9f6466bd4aa182b67287'] = 'Puede encontrar más información acerca de este módulo aquí';
+$_MODULE['<{commercialmanager}dentalmarket>configure_78463a384a5aa4fad5fa73e2f506ecfc'] = 'Inglés';
+$_MODULE['<{commercialmanager}dentalmarket>configure_cb5480c32e71778852b08ae1e8712775'] = 'Español';
+$_MODULE['<{commercialmanager}dentalmarket>list-users_d95cf4ab2cbf1dfb63f066b50558b07d'] = 'Mi cuenta';
+$_MODULE['<{commercialmanager}dentalmarket>list-users_4f646397ba266f188a06e473737827d3'] = 'Gestión de cuenta de clientes';
+$_MODULE['<{commercialmanager}dentalmarket>my-account_fd509264858bd3d34e903ae17c5d26c3'] = 'Acceder como cliente';

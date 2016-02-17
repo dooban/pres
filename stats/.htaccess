@@ -1,0 +1,7 @@
+AuthName "dentalmarket.ecomm360.net statistics"
+AuthType Basic
+AuthUserFile /var/home/dentalmarket/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

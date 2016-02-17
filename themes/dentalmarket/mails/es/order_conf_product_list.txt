@@ -1,0 +1,27 @@
+{foreach $list as $product}
+						{$product['reference']}
+
+						{$product['name']}
+
+						{$product['price']}
+
+						{$product['quantity']}
+
+						{$product['price']}
+
+						{$product['pricewt']}
+
+						{$product['discount']}						
+
+						{$product['desoferta']}						
+
+	{foreach $product['customization'] as $customization}
+							{$product['name']} {$customization['customization_text']}
+
+							{$product['price']}
+
+							{$product['customization_quantity']}
+
+							{$product['quantity']}
+	{/foreach}
+{/foreach}

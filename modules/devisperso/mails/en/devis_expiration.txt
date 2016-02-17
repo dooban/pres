@@ -1,0 +1,9 @@
+Hello,
+
+A customized quote request has just expired
+
+The customized quote request #{id_devis} has arrived to expiration !
+
+
+{shop_name} powered by  PrestaShop™ 
+

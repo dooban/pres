@@ -1,0 +1,8 @@
+Bonjour,
+
+Une demande de devis personnalisé vient d'expirer
+
+La demande de devis personnalisé n°{id_devis} est arrivé à expiration !
+
+
+{shop_name} réalisé par PrestaShop™ 

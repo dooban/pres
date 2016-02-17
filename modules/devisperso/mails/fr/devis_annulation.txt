@@ -1,0 +1,8 @@
+Bonjour,
+
+Une demande de devis personnalisé vient d'être annulée
+
+La demande de devis personnalisé n°{id_devis} vient d'être annulée !
+
+
+{shop_name} réalisé par PrestaShop™ 

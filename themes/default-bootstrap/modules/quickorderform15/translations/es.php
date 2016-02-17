@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_96e9f766df00ffcbd7c4600d16f90df3'] = 'Formulario de pedido rápido';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_37f40ca0969b0b1cd44758a5db34e05b'] = 'Agrega un formulario para pedir más rápido.';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_828aa8e02beb6a1e6ad5ec383e199f59'] = 'Formulario de pedido rápido';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_3f0358aef7fa32e845db0c6ffb9725e5'] = 'Error con la extensión del fichero';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_5a633d7e4de3619bf1162a86cb5c9c13'] = 'Error con el tamaño del fichero';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_226ed577d0eff50725be6447bcd5a2f0'] = 'error al desplazar el fichero uploado';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_8083888d8cccfa873795516c4302db45'] = 'Configuración del bloque del columna del formulario de pedido rápido';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_9f9079ead80e7a71b4c0c79a0756753e'] = 'No puede suprimir la imagen por defecto (pero puede cambiarla junto a) ';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_83b5a65e518c21ed0a5f2b383dd9b617'] = 'Eliminar la imagen';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_706bebc78ad992a07e4c1ce0f39def81'] = 'Ninguna imagen';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_8c38cf08a0d0a01bd44c682479432350'] = 'Cambiar la imagen';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_936823d20c5582b055bccdc6fd03b9d1'] = 'La imagen se mostrará como 155x163.';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_b78a3223503896721cca1303f776159b'] = 'Título';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_ad3d06d03d94223fa652babc913de686'] = 'Validar';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_5b6cf869265c13af8566f192b4ab3d2a'] = 'Documentación';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_c9a643a73954c022c6d9b9753fc06093'] = 'Documentación fr';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_8fa1e7d213f310ae24c7b99e51fe38fe'] = 'Documentación en';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform15_be6c45f8823a5181c2e02355c0b9a700'] = 'Documentación es';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_d95cf4ab2cbf1dfb63f066b50558b07d'] = 'Mi cuenta';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_368b57e14d2b0274bb2c105230ae23c9'] = 'Compra rápida';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_b31cf4e8452cb906ef1ef5769484b1d1'] = 'Por favor, introduzca el nombre o referencia';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_7d9b384a7df4a5f2e720b8f1b81ea353'] = 'Eliminar este producto';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_1063e38cb53d94d386f21227fcd84717'] = 'Eliminar';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_12d3c7a4296542c62474856ec452c045'] = 'Referencia	';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_49ee3087348e8d44e1feda1917443987'] = 'Nombre';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_68a6edd654bf46bdca814b63c7bd35d1'] = 'Combinaciones';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_694e8d1f2ee056f98ee488bdc4982d73'] = 'Cantidad';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_3837cb7cbf8a4ee6231126ba1eb663da'] = 'Añadir 5 nuevas líneas';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_6a9856f4ab2020a4683d44e14a6447e6'] = 'Añadir nueva línea';
+$_MODULE['<{quickorderform15}default-bootstrap>quickorderform-form_2d0f6b8300be19cf35e89e66f0677f95'] = 'Añadir a la cesta';
+$_MODULE['<{quickorderform15}default-bootstrap>left-column_9b14229fd538c73ed714ec4a9aa66996'] = 'Pedido más rápido !';
+$_MODULE['<{quickorderform15}default-bootstrap>left-column_08ce78d09a131e90159b67381a7ebcee'] = 'Ir al formulario de pedido rápido';
+$_MODULE['<{quickorderform15}default-bootstrap>left-column_ef0c6dc825df5280fe98c1bb42c310c7'] = 'Pedido Rápida';
+$_MODULE['<{quickorderform15}default-bootstrap>myaccount_ec210bd67f412a72df59893466585e51'] = 'Compra rápida';
